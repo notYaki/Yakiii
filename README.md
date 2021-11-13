@@ -37,6 +37,4 @@ Without specifying [guild id], snipe command will available on all of your app's
 
 With [guild id] it will be available only within the guild specified. It will update instantly.
 
-## License
-
-[MIT](https://tldrlegal.com/license/mit-license)
+!enjoy

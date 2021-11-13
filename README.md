@@ -11,18 +11,13 @@ Node.js 16.6.0 or newer is required.
 1. Run:
 
 ```bash
-$ git clone https://github.com/DankMemer/sniper.git
-$ cd ./sniper
+$ git clone https://github.com/notYaki/Yakiii.git
+$ cd .Yakiii
 ```
 
-2. Create config.json:
+2. Add token:
 
-```json
-{
-	"token": "<Your bot's token>",
-	"application_id": "<Your application's id>"
-}
-```
+add .env file and tpye TOKEN=your token here without the
 
 3. Run:
 
